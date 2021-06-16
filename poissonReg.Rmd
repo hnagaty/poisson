@@ -1,0 +1,26 @@
+---
+title: "Poisson Regression"
+output: html_notebook
+---
+
+Not all linear regressio models are the same
+
+# Why Linear Regression
+
+# Generalised Linear Models
+
+## Poisson Regression
+
+## Quasi-Poisson
+
+## Zero Inflated
+
+## Binomial Response
+
+# Conclusion
+
+
+
+
+
+
